@@ -201,3 +201,11 @@ To get started, navigate to the [Workshop Labs](./workshop-labs.md) page where y
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Project Name
+
+[![Intro - Custom Workflow](https://github.com/adamkblaine/github-actions-workshop/actions/workflows/intro-custom-workflow.yml/badge.svg)](https://github.com/adamkblaine/github-actions-workshop/actions/workflows/intro-custom-workflow.yml)
+
+## Description
+
+A brief description of the project goes here.
