@@ -12,7 +12,6 @@ env:
 jobs:
   print:
     runs-on: ubuntu-latest
-
     env:
       JOB_ENV_VAR: 'Job Environment Variable'
 
