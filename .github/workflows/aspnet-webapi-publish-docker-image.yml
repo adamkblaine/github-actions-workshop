@@ -7,7 +7,7 @@ on:
       - 'src/dotnet/Weather.WebApi/**'
 
 env:
-  DOCKER_IMAGE: prasadhonrao/aspnet-weather-webapi
+  DOCKER_IMAGE: ablainesmg/aspnet-weather-webapi
 
 jobs:
   build:
