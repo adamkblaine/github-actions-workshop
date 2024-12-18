@@ -10,6 +10,8 @@ on:
 jobs:
   build:
     runs-on: self-hosted
+    env:
+      DOTNET_INSTALL_DIR: "c:/temp/githubActionsTest"
     defaults:
       run:
         working-directory: ./src/dotnet/WebApp
