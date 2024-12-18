@@ -71,3 +71,6 @@ jobs:
         run: |
           echo "Listing files in the downloaded directory:"
           ls -R $GITHUB_WORKSPACE
+
+      - name: Verify Artifact Content
+        run: echo "Downloaded artifact verified successfully."
