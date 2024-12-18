@@ -7,7 +7,7 @@ on:
       - 'src/dotnet/Weather.WebApi/**'
 
 env:
-  GITHUB_PACKAGE_NAME: ghcr.io/prasadhonrao/aspnet-weather-webapi
+  GITHUB_PACKAGE_NAME: ghcr.io/ablaineSMG/aspnet-weather-webapi
 
 jobs:
   build:
